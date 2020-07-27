@@ -1,10 +1,9 @@
 # Wesley Burlani
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=black&labelColor=white&link=https://github.com/wesleyburlani)](https://github.com/wesleyburlani)
-[![Linkedin Badge](https://img.shields.io/badge/-Intagram-black?style=for-the-badge&logo=Linkedin&logoColor=black&labelColor=white&color=black&link=https://www.linkedin.com/in/wesleyburlani/)](https://www.instagram.com/wesleyburlani/)
-[![Instagram Badge](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Instagram&logoColor=black&labelColor=white&color=black&link=https://www.linkedin.com/in/wesleyburlani/)](https://www.linkedin.com/in/wesleyburlani/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-black?style=for-the-badge&logo=WhatsApp&logoColor=black&labelColor=white&color=black&link=https://api.whatsapp.com/send?phone=5511994519393&text=Hello)](https://api.whatsapp.com/send?phone=5511994519393&text=Hello)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=black&labelColor=white&color=black&link=mailto:wesleyburlani)](mailto:wesleyburlani)
+<a href="https://www.github.com/wesleyburlani/"><img src="https://img.icons8.com/windows/26/000000/github.png"/></a>
+<a href="https://www.linkedin.com/in/wesleyburlani/"><img src="https://img.icons8.com/metro/26/000000/linkedin.png" /></a>
+<a href="https://www.instagram.com/wesleyburlani/"><img src="https://img.icons8.com/metro/26/000000/instagram-new.png"/></a>
+<a href="https://api.whatsapp.com/send?phone=5511994519393&text=Hello"><img src="https://img.icons8.com/ios-glyphs/29/000000/whatsapp.png"/></a>
+<a href="mailto:wesleyburlani"><img src="https://img.icons8.com/metro/26/000000/email.png"/></a>
 
 >A man from a simple place who founds in science the opportunity to change his life, leaving his home to wander elsewhere, leading to serenity and respecting what music and boxing could bring us. 
 
