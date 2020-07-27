@@ -1,6 +1,6 @@
 # Wesley Burlani
 
-<table style="width:100%">
+<table>
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/wesleyburlani/"><img src="https://img.icons8.com/metro/26/000000/linkedin.png" /></a><br/>
