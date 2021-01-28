@@ -7,7 +7,7 @@
   <a href="mailto:wesleyburlani"><img src="https://img.icons8.com/metro/26/000000/email.png"/></a>
 </p>
 
-> A man from a simple place who founds in science the opportunity to change his life, leaving his home to wander elsewhere, leading to serenity and respecting what music and boxing could bring us. 
+> software developer who does some jobs pretending to be a software architect and sometimes pretending to be a project manager, but the most import part: just a human trying to be good person and [maybe] getting "[to be] a good professional" as consequence. 
 
 Hello guys, I'm Wesley Burlani and I live in Chapecó, state of Santa Catarina, Brazil. I'm Computer science student graduating on bacharelor's degree, at least trying.. But despite that I'm a programmer who had worked mostly with C# and . NET core in my career and currently working with Typescript.
 
