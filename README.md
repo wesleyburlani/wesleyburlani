@@ -9,8 +9,6 @@
 
 > software developer who does some jobs pretending to be a software architect and sometimes pretending to be a project manager, but the most import part: just a human trying to be good person and [maybe] getting "[to be] a good professional" as consequence. 
 
-Hello guys, I'm Wesley Burlani and I live in Chapecó, state of Santa Catarina, Brazil. I'm Computer science student graduating on bacharelor's degree, at least trying.. But despite that I'm a programmer who had worked mostly with C# and . NET core in my career and currently working with Typescript.
-
-![github stats](https://github-readme-stats.vercel.app/api?username=wesleyburlani&show_icons=true&title_color=000000)
+Hello guys, I'm Wesley Burlani and I live in Barueri, state of São Paulo, Brazil and I'm a programmer who had worked mostly with C# and . NET core in my career and currently working with Typescript.
 
 At this document I inserted my contacts, feel free to contact me and invite me to great projects or just exchange knowledge :) 
