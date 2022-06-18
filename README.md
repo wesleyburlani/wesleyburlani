@@ -6,8 +6,5 @@
   <a href="mailto:wesleyburlani"><img src="https://img.icons8.com/metro/26/000000/email.png"/></a>
 </p>
 
-> software developer who does some jobs pretending to be a software architect and sometimes pretending to be a project manager, but the most import part: just a human trying to be good person and [maybe] getting "[to be] a good professional" as consequence. 
+Backend Software Engineer with experience in C#, Typescript, and GoLang, also working with DevOps using Kubernetes, AWS, and Google Cloud, and always looking forward to solving problems using what the world has to help me do this
 
-Hello guys, I'm Wesley Burlani and I live in Barueri, state of São Paulo, Brazil and I'm a programmer who had worked mostly with C# and . NET core in my career and currently working with Typescript.
-
-At this document I inserted my contacts, feel free to contact me and invite me to great projects or just exchange knowledge :) 
